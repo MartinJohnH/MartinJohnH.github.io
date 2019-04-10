@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ChuChu",
+"dataUrl": "ChuChu.data.unityweb",
+"wasmCodeUrl": "ChuChu.wasm.code.unityweb",
+"wasmFrameworkUrl": "ChuChu.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#A6A6A6",
+"cacheControl": {"default": "must-revalidate"}
+}
